@@ -1,3 +1,4 @@
+![logo] (https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png)
 <h1 align="center">Hi 👋, I'm Nisha Doshi</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
