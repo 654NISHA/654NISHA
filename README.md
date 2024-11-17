@@ -1,4 +1,3 @@
-![logo] (https://github.com/654NISHA/654NISHA/blob/main/data-analytics.png)
 <h1 align="center">Hi 👋, I'm Nisha Doshi</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
